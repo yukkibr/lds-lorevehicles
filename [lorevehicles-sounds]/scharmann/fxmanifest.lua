@@ -6,7 +6,10 @@ files {
   'audio/*.dat151.rel',
   'audio/*.dat54.rel',
   'audio/*.dat10.rel',
-  'sfx/*/*.awc'
+  'audio/sfx/dlc_scharmann/scharmann.awc',
+  'audio/sfx/dlc_scharmann/scharmann_npc.awc',
+  'audio/sfx/dlc_scharmannv8/scharmannv8.awc',
+  'audio/sfx/dlc_scharmannv8/scharmannv8_npc.awc'
 }
 
 data_file 'AUDIO_GAMEDATA' 'audio/scharmann_game.dat'

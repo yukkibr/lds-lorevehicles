@@ -5,7 +5,8 @@ game 'gta5'
 files {
   'audio/*.dat151.rel',
   'audio/*.dat54.rel',
-  'sfx/*/*.awc'
+  'audio/sfx/dlc_trumpetzr/trumpetzr.awc',
+  'audio/sfx/dlc_trumpetzr/trumpetzr_npc.awc'
 }
 
 data_file 'AUDIO_GAMEDATA' 'audio/euros_game.dat'

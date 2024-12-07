@@ -15,7 +15,7 @@
       <animConvRoofName>null</animConvRoofName>
       <animConvRoofWindowsAffected />
       <ptfxAssetName>null</ptfxAssetName>
-      <audioNameHash>CASTELLA</audioNameHash>
+      <audioNameHash>castella</audioNameHash>
       <layout>LAYOUT_LOW</layout>
       <coverBoundOffsets>TYRUS_COVER_OFFSET_INFO</coverBoundOffsets>
       <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>

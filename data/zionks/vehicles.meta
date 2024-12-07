@@ -15,7 +15,7 @@
       <animConvRoofName>null</animConvRoofName>
       <animConvRoofWindowsAffected />
       <ptfxAssetName>null</ptfxAssetName>
-      <audioNameHash>ZIONKS</audioNameHash>
+      <audioNameHash>zionks</audioNameHash>
       <layout>LAYOUT_STD_ZION3</layout>
       <coverBoundOffsets>ZION3_COVER_OFFSET_INFO</coverBoundOffsets>
       <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>

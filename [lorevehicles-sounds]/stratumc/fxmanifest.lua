@@ -6,7 +6,8 @@ files {
   'audio/*.dat151.rel',
   'audio/*.dat54.rel',
   'audio/*.dat10.rel',
-  'sfx/*/*.awc'
+  'audio/sfx/dlc_zircoflow/stratumc.awc',
+  'audio/sfx/dlc_zircoflow/stratumc_npc.awc'
 }
 
 data_file 'AUDIO_GAMEDATA' 'audio/stratumc_game.dat'
