@@ -1,3 +1,5 @@
+Fixed Vehicles with no Audio - 1/29/25
+
 # lds-lorevehicles 🚗
 **IF YOU DOWNLOADED THIS PACK BEFORE LAST COMMIT ON 9-9-2024, REDOWNLOAD NOW.**
 Had some issues with publishing rights and rights for usage on FiveM servers. So to avoid trouble I highly recommend to take the resource out and redownload.

@@ -5,7 +5,8 @@ game 'gta5'
 files {
   'audio/*.dat151.rel',
   'audio/*.dat54.rel',
-  'sfx/*/*.awc'
+  'audio/sfx/dlc_progenmf1/progenmf1.awc',
+  'audio/sfx/dlc_progenmf1/progenmf1_npc.awc'
 }
 
 data_file 'AUDIO_GAMEDATA' 'audio/mf1c_game.dat'

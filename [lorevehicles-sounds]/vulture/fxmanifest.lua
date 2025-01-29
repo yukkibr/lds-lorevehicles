@@ -5,7 +5,8 @@ game 'gta5'
 files {
   'audio/*.dat151.rel',
   'audio/*.dat54.rel',
-  'sfx/*/*.awc'
+  'audio/sfx/dlc_vulture/vulture.awc',
+  'audio/sfx/dlc_vulture/vulture_npc.awc'
 }
 
 data_file 'AUDIO_GAMEDATA' 'audio/vulture_game.dat'

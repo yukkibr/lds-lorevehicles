@@ -6,7 +6,8 @@ files {
   'audio/*.dat151.rel',
   'audio/*.dat54.rel',
   'audio/*.dat10.rel',
-  'sfx/*/*.awc'
+  'audio/sfx/dlc_hachura/hachura.awc',
+  'audio/sfx/dlc_hachura/hachura_npc.awc'
 }
 
 data_file 'AUDIO_GAMEDATA' 'audio/hachura_game.dat'

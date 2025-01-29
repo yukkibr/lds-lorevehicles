@@ -5,7 +5,8 @@ game 'gta5'
 files {
   'audio/*.dat151.rel',
   'audio/*.dat54.rel',
-  'sfx/*/*.awc'
+  'audio/sfx/dlc_bansheepo/bansheepo.awc',
+  'audio/sfx/dlc_bansheepo/bansheepo_npc.awc'
 }
 
 data_file 'AUDIO_GAMEDATA' 'audio/bansheepo_game.dat'
